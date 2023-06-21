@@ -1,1 +1,1 @@
-
+Download file airbnb prices.csv to open the Airbnb dataset on which the data analysis is done.
