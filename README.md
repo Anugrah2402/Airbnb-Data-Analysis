@@ -1,4 +1,3 @@
 # Airbnb-Data-Analysis
-The Airbnb Data Analysis Project aims to explore and analyze a dataset from Airbnb, a popular online marketplace for short-term rentals. The project focuses on gaining insights and understanding various aspects of the Airbnb ecosystem, such as pricing trends, property types, geographic patterns, and other property related characteristics.   
-
-Please open Airbnb_ Data_Analysis_Internship.ipynb file to view the python code for the project.
+# Please open the Airbnb_ Data_Analysis_Internship.ipynb file in the below link to view the python code for the project.
+https://drive.google.com/file/d/15oFNxD-ZHtPNM_ICkFIfshD_x2-Upfhm/view?usp=drive_link
