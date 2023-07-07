@@ -6,8 +6,7 @@
 
 # Dataset
 * The Dataset can be downloaded from the below link
-* https://drive.google.com/drive/folders/1ANkgtAT0Pdp2r86IxFKv9vKYmnsYjJDO?usp=s
-haring
+* https://drive.google.com/drive/folders/1ANkgtAT0Pdp2r86IxFKv9vKYmnsYjJDO?usp=sharing
 
 # Requirements
 * Python
@@ -17,6 +16,14 @@ haring
 * ProfileReport
 * D Tale
   
+#  Workflow:
+1. Data Injestion
+2. Data Validation
+3. Data Cleaning and Preparation
+4. Exploratory Data Analysis (EDA)
+5. Insights Generation
+6. Document Preparation
+
 # Visualizations:
 ![viz 1](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/aafd2426-4ae6-4306-b883-c05b7b5cce11)
 ![viz 2](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/cc18d2d1-c270-45aa-81c7-3ae367978c41)
@@ -31,13 +38,8 @@ haring
 * For insights refer the document in the below link
 * https://docs.google.com/presentation/d/1YvuMG9GxPmw9vyz-gUgzTJrjQcoeLKMd/edit?usp=drive_link&ouid=116151985383368247912&rtpof=true&sd=true
 
-#  Workflow:
-1. Data Injestion
-2. Data Validation
-3. Data Cleaning and Preparation
-4. Exploratory Data Analysis (EDA)
-5. Insights Generation
-6. Document Preparation
+# Documents:
+https://github.com/Anugrah2402/Airbnb-Data-Analysis/tree/main/Documents
 
 # Please open the Airbnb_ Data_Analysis_Internship.ipynb file in the below link to view the detailed python code and the visualizations for the project.
 https://drive.google.com/file/d/15oFNxD-ZHtPNM_ICkFIfshD_x2-Upfhm/view?usp=drive_link
