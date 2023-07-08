@@ -1,14 +1,14 @@
 # Airbnb Data Analysis
 
-# Description
+# Description:
 * The Airbnb Data Analysis Project aims to explore and analyze a dataset from Airbnb, a popular online marketplace for short-term rentals.
 * The project focuses on gaining insights and understanding various aspects of the Airbnb ecosystem, such as pricing trends, property types, geographic patterns, and other property related characteristics.
 
-# Dataset
+# Dataset:
 * The Dataset can be downloaded from the below link
 * https://drive.google.com/drive/folders/1ANkgtAT0Pdp2r86IxFKv9vKYmnsYjJDO?usp=sharing
 
-# Requirements
+# Requirements:
 * Python
 * Numpy
 * Pandas
@@ -44,5 +44,5 @@ https://github.com/Anugrah2402/Airbnb-Data-Analysis/tree/main/Documents
 # Please open the Airbnb_ Data_Analysis_Internship.ipynb file in the below link to view the detailed python code and the visualizations for the project.
 https://drive.google.com/file/d/15oFNxD-ZHtPNM_ICkFIfshD_x2-Upfhm/view?usp=drive_link
 
-# Contributor
+# Contributor:
 ### Anugrah S. Mohan
