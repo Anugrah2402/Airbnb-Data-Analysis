@@ -33,6 +33,13 @@
 ![viz 11](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/77948a45-643c-4d30-871b-7e41f106e30b)
 ![viz 13](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/8c8aa4bf-5985-40e0-973e-2d39797b2509)
 ![viz 15](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/6e4b5905-19b0-42bd-8231-317eaa5ddede)
+![viz 6](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/6ba74381-0fc4-45a2-a1b1-2501d1fdf73f)
+![viz 12](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/88ce0df4-946d-45db-b779-25b4d5402cd5)
+![viz 4](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/bc6df398-f4a6-4b09-8389-5b01acd4dee9)
+![viz 3](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/a7416cf9-07e4-4130-b91c-242c90009cd8)
+![viz 5](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/de12b61e-2464-4ecf-96b4-7045b1ab6c67)
+![viz 14](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/ce94dba4-26dd-4481-bc82-0387bfde8ab3)
+![viz 8](https://github.com/Anugrah2402/Airbnb-Data-Analysis/assets/114797140/c58ad1be-fa84-4d1e-bbea-3fd3ff05434c)
 
 # Insights:
 * For insights refer the document in the below link
